@@ -1,7 +1,6 @@
 [
     {
         "nombre": "DynoRythm",
-        "descripcion": "lorem ipsum",
         "fecha": "2024",
         "signo": "grafico",
         "foto": "https://github.com/user-attachments/assets/11280056-ccd4-471a-a82f-15c518bdc2fb",
@@ -9,7 +8,6 @@
     },
     {
         "nombre": "Equita",
-        "descripcion": "lorem ipsum",
         "fecha": "2024",
         "signo": "servicio",
         "foto": "https://github.com/user-attachments/assets/9bbfa754-bd3d-45d5-86f6-af2e3f69519e",
@@ -17,7 +15,6 @@
     },
     {
         "nombre": "Cancer de pulmon",
-        "descripcion": "lorem ipsum",
         "fecha": "2024",
         "signo": "grafico",
         "foto": "https://github.com/user-attachments/assets/1d89ef76-4662-49ce-8f8b-38b06fd2b61e",
@@ -25,7 +22,6 @@
     },
     {
         "nombre": "Kitu",
-        "descripcion": "lorem ipsum",
         "fecha": "2023",
         "signo": "servicio",
         "foto": "https://github.com/user-attachments/assets/f6d00893-6620-4f28-8d82-568d25d1bfa1",
@@ -33,7 +29,6 @@
     },
     {
         "nombre": "Catalogo Melissa",
-        "descripcion": "lorem ipsum",
         "fecha": "2024",
         "signo": "editorial",
         "foto": "https://github.com/user-attachments/assets/1f5590d2-3ee9-4d18-a8c1-8f751cd26c79",
@@ -41,7 +36,6 @@
     },
     {
         "nombre": "Monarca",
-        "descripcion": "lorem ipsum",
         "fecha": "2023",
         "signo": "industrial",
         "foto": "https://github.com/user-attachments/assets/13cc2ac4-5a98-49ad-9424-dcc0a0ba38f4",
@@ -49,7 +43,6 @@
     },
     {
         "nombre": "Iconografia Amelie",
-        "descripcion": "lorem ipsum",
         "fecha": "2024",
         "signo": "grafico",
         "foto": "https://github.com/user-attachments/assets/448536dd-7c58-4802-af86-a6c4c087a871",
@@ -57,7 +50,6 @@
     },
     {
         "nombre": "Cyber Melissa",
-        "descripcion": "lorem ipsum",
         "fecha": "2024",
         "signo": "grafico",
         "foto": "https://github.com/user-attachments/assets/def3207d-b20c-4d7f-94a5-3dba412c5025",
@@ -65,7 +57,6 @@
     },
     {
         "nombre": "Escuela Yunus Penalolen",
-        "descripcion": "lorem ipsum",
         "fecha": "2023",
         "signo": "industrial",
         "foto": "https://github.com/user-attachments/assets/0d990bc8-bb44-4b66-bee6-e18199f7956b",
